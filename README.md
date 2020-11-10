@@ -1,10 +1,10 @@
-# DB CRUD
+# MAPS
 
-Database CRUD PHP MYSQL
+Class Google Maps
 
 #### INSTALLATION :fire:
 
-`composer require wahyu/db`
+`composer require wahyu/maps`
 
 #### REQUIREMENTS :warning: 
 
