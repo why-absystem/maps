@@ -1,0 +1,19 @@
+{
+    "name": "wahyu/maps",
+    "type": "library",
+	"description": "Database CRUD PHP MYSQL",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wahyu Hidayat",
+            "email": "hidayatwahyu87@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"W\\": "src/"
+		}
+	},
+	"require": {}
+}
